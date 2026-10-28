@@ -1,0 +1,13 @@
+.env
+.env.*
+*.env
+!.env.example
+*password*
+*secret*
+*.key
+*.pem
+*.dump
+*.backup
+.DS_Store
+__pycache__/
+.venv/
